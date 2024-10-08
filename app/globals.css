@@ -35,6 +35,7 @@
 
 
 
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Raleway:ital,wght@0,400;0,600;1,400;1,500&display=swap");
 /* 
 font-family: 'Poppins', sans-serif;
@@ -159,6 +160,12 @@ li {
   background: var(--main-gradient);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+/* Article code */
+
+.article-layout{
+  padding: 35px;
 }
 
 /* common circle code */

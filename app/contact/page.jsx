@@ -3,6 +3,7 @@ import "./ContactUs.scss"
 // import { Link } from "react-router-dom"
 import Link from "next/link"
 // import SocialMod from "../component/SocialMod"
+import SocialMod from "./SocialMod"
 
 const ContactUs = () => {
   return (
@@ -31,7 +32,7 @@ const ContactUs = () => {
               <span>09:00 AM - 06:00 PM</span>
             </div>
           </div>
-          {/* <SocialMod /> */}
+          <SocialMod />
         </div>
       </div>
       <div className="contact-right">
