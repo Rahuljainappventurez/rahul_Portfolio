@@ -1,5 +1,6 @@
 import React from "react"
-import { certificate } from "./image"
+// import { certificate } from "./image"
+import { certificate } from "@/components/images/image"
 import "./CertificationCard.scss"
 // import { Link } from "react-router-dom"
 import Link from "next/link"
